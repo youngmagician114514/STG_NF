@@ -174,3 +174,5 @@ class Trainer:
                             'state_dict': self.model.state_dict(),
                             'optimizer': self.optimizer.state_dict(), }
         return checkpoint_state
+
+    

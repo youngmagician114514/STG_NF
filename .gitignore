@@ -202,3 +202,10 @@ data/ShanghaiTech/pose/
 data/UBnormal/pose/
 runs/*
 data/exp_dir/*
+
+# Ignore 
+.ipynb_checkpoints/
+data3.zip
+my_test.py
+untitled.md
+yolo/
